@@ -2,8 +2,8 @@
 
 
 - 🔭 Estou trabalhando com Infraestrutura de Datacenter 
-- 🌱 Estou aprendendo JAVASCRIPT, TYPESCRIPT, C e SQL
-- 💬 Estudando DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA NA FATEC
+- 🌱 Estou aprendendo JavaScript, TypeScript, C++ e SQL
+- 💬 Estudando Desenvolvimento de Software Multiplaforma na FATEC
 - ⚡ Fun fact: Gosto de tocar saxofone
 
 <div align="center">
